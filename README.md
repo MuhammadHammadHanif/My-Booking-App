@@ -1,7 +1,7 @@
-## `npm install`
+### `npm install`
 
-To download modules in package.json. Go to cd/client then npm install
+Use npm install to download modules from Package.json
 
-## `npm start`
+### `npm start`
 
 Runs the app in the development mode
